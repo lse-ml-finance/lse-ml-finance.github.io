@@ -125,3 +125,8 @@ In addition to data fields described previously, we have the following columns.
 |Poisson_Jump_1		          |The implied jump magnitude in the Merton model	                    |
 |Poisson_Rate_1		          |The Poisson rate for the Merton model                              |
 
+4. ReceptivitiSMA.csv, 270MB
+Purpose: to determine whether psychological metrics of authors of financial tweets are related to, and potentially predictive of, the S&P 500 ETF ‘SPY’ and associated volatility index, VIX.
+* Metrics reflecting the state of mind of authors, from an analysis of SMA data by Receptivity.ai 
+* SPY and VIX one week prior to the week during which tweets were analyzed to one week after 
+Data definitions are included in the associated file ‘ReceptivitiSMAEnrichedWeeklySpec.csv’

@@ -17,7 +17,7 @@ The course consists in eight sessions over four days.
 
 1. Problem identification and solution planning
 2. Market microstructure and volume forecasting
-3. Trade execution 1: predictinbg an algorithm's participation rate
+3. Trade execution 1: predicting an algorithm's participation rate
 4. Trade execution 2: alpha profiling
 5. Volatility forecasting
 6. Options pricing and volatility attribution

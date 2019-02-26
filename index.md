@@ -133,3 +133,7 @@ Purpose: to determine whether psychological metrics of authors of financial twee
 * SPY and VIX one week prior to the week during which tweets were analyzed to one week after 
 
 Data definitions are included in the associated file ‘ReceptivitiSMAEnrichedWeeklySpec.csv’
+
+## Link to dropbox for datasets
+
+[Datasets and the slides may be found here](https://www.dropbox.com/sh/fd27n2rofi69h5n/AADfqEV65jegvTaLTQcfdDi_a?dl=0)

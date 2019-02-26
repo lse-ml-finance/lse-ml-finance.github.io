@@ -26,7 +26,7 @@ The course consists in eight sessions over four days.
 
 ## Datasets
 
-**1. Daily10AmSignals.csv** (470MB, and shorter version for 2017)
+**1 - Daily10AmSignals.csv** (470MB, and shorter version for 2017)
 You are running a quant fund that places orders at 10AM and exits all trades at the close. What to buy, what to short? To help you in your decision, you collected and combined a couple of unusual datasets.
 
 * the prior-five-minute order flow metrics describing how much people are buying or selling, whether this activity is taking place in displayed market activity or through hidden orders, and how it relates to price dynamics over the same 5-minute window.
@@ -86,7 +86,7 @@ The dataset comprises one record each market day for a specified universe of sec
 |Event_type	          |The subject category (unique)				                                |
 |Event_rank	          |How this subject category ranks for influence on prices	            |
 
-**2. OptionsAndNews.csv** (960MB)
+**2 - OptionsAndNews.csv** (960MB)
 
 Purpose: option markets are a fantastic window into the future: options capture the implied distribution of returns to the expiration date. So whereas a stock price gives the expected future price, the options montage informs on the distribution. To understand why the options market is implying what it does, it is necessary to couple options data to news stories. 
 
@@ -99,7 +99,7 @@ This dataset combines StreetAccount news stories and option prices, together wit
 
 The column header descriptions may be found in the above dataset descriptions.
 
-**3. OptionsMontageByEvent.csv** (1.3GB)
+**3 - OptionsMontageByEvent.csv** (1.3GB)
 
 Purpose: as noted above, the options market encodes valuable predictive insight into the distribution of future returns. This dataset aims to determine whether the shape of the volatility surface can be categorized by specific news subjects. 
 
@@ -125,7 +125,7 @@ In addition to data fields described previously, we have the following columns.
 |Poisson_Jump_1		          |The implied jump magnitude in the Merton model	                    |
 |Poisson_Rate_1		          |The Poisson rate for the Merton model                              |
 
-**4. ReceptivitiSMA.csv**, 270MB
+**4 - ReceptivitiSMA.csv**, 270MB
 
 Purpose: to determine whether psychological metrics of authors of financial tweets are related to, and potentially predictive of, the S&P 500 ETF ‘SPY’ and associated volatility index, VIX.
 

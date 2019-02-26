@@ -86,15 +86,7 @@ The dataset comprises one record each market day for a specified universe of sec
 |Event_type	          |The subject category (unique)				                                |
 |Event_rank	          |How this subject category ranks for influence on prices	            |
 
-2. PsychologySampleEnriched, 60MB
-
-Purpose: to determine whether psychological metrics of authors of financial tweets are related to, and potentiall predictive of, market performance
-
-* Metrics from Social Market Analytics: buzz, sentiment, etc.
-* Metrics reflecting the state of mind of authors, from Receptivity.ai
-* Market prices from 60 days prior to 60 days after
-
-3. OptionsAndNews.csv (960MB)
+2. OptionsAndNews.csv (960MB)
 
 Purpose: option markets are a fantastic window into the future: options capture the implied distribution of returns to the expiration date. So whereas a stock price gives the expected future price, the options montage informs on the distribution. To understand why the options market is implying what it does, it is necessary to couple options data to news stories. 
 
@@ -107,7 +99,7 @@ This dataset combines StreetAccount news stories and option prices, together wit
 
 The column header descriptions may be found in the above dataset descriptions.
 
-4. OptionsMontageByEvent.csv (1.3GB)
+3. OptionsMontageByEvent.csv (1.3GB)
 
 Purpose: as noted above, the options market encodes valuable predictive insight into the distribution of future returns. This dataset aims to determine whether the shape of the volatility surface can be categorized by specific news subjects. 
 
